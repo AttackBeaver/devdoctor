@@ -1,7 +1,8 @@
 site_name: DevEnv Doctor
 repo_url: https://github.com/AttackBeaver/devdoctor
 repo_name: AttackBeaver/devdoctor
-theme:  name: material
+theme:
+  name: material
   palette:
     primary: teal
     accent: indigo
