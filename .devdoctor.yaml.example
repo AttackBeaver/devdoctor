@@ -1,0 +1,24 @@
+tools:
+  - name: git
+    min_version: "2.30.0"
+  - name: python
+    min_version: "3.10.0"
+
+ports:
+  - number: 5432
+    description: "PostgreSQL"
+  - number: 8000
+    description: "App Server"
+
+disk_paths: ["."]
+
+directories_to_create:
+  - "logs"
+  - "temp/uploads"
+
+env_files:
+  - ".env"
+
+required_env_vars:
+  - "DATABASE_URL"
+  - "SECRET_KEY"

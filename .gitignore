@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+dist/
+build/
+.venv/
+.env
+.devdoctor.yaml
+!.devdoctor.yaml.example
