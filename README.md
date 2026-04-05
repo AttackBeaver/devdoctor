@@ -1,6 +1,6 @@
 # 🩺 DevEnv Doctor
 
-[![CI](https://github.com/YOUR_GITHUB_USER/devdoctor/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_GITHUB_USER/devdoctor/actions)
+[![CI](https://github.com/AttackBeaver/devdoctor/actions/workflows/ci.yml/badge.svg)](https://github.com/AttackBeaver/devdoctor/actions)
 [![PyPI version](https://img.shields.io/pypi/v/devdoctor.svg)](https://pypi.org/project/devdoctor/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -64,9 +64,9 @@ custom_checks:
 Инструкции по развертыванию и тестированию находятся в [CONTRIBUTING.md](docs/development.md).
 
 ---
-**Автор**: [YOUR_NAME](https://github.com/YOUR_GITHUB_USER)  
+**Автор**: [Стариков А.В.](https://github.com/AttackBeaver) — преподаватель БПОУ ОО "СПК"  
+**GitHub**: [AttackBeaver/devdoctor](https://github.com/AttackBeaver/devdoctor)  
 **Лицензия**: MIT
-
 ## Установка
 
 ```bash

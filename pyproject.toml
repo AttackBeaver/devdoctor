@@ -2,12 +2,11 @@
 name = "devdoctor"
 version = "0.2.0"
 description = "Professional CLI tool for developer environment diagnostics and auto-fixing"
-authors = ["YOUR_NAME <YOUR_EMAIL@example.com>"]
+authors = ["Стариков А.В. <https://github.com/AttackBeaver>"]
 readme = "README.md"
-homepage = "https://github.com/YOUR_GITHUB_USER/devdoctor"
-repository = "https://github.com/YOUR_GITHUB_USER/devdoctor"
-documentation = "https://YOUR_GITHUB_USER.github.io/devdoctor"
-keywords = ["cli", "devops", "environment", "setup", "diagnostics"]
+homepage = "https://github.com/AttackBeaver/devdoctor"
+repository = "https://github.com/AttackBeaver/devdoctor"
+documentation = "https://AttackBeaver.github.io/devdoctor"keywords = ["cli", "devops", "environment", "setup", "diagnostics"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
