@@ -61,7 +61,12 @@ custom_checks:
 
 ## 👨‍💻 Разработка
 
-Инструкции по развертыванию и тестированию находятся в [CONTRIBUTING.md](docs/development.md).
+Инструкции по развертыванию и тестированию находятся в [документации по разработке](docs/development.md).
+
+---
+**Автор**: [Стариков А.В.](https://github.com/AttackBeaver) — преподаватель БПОУ ОО "СПК"  
+**GitHub**: [AttackBeaver/devdoctor](https://github.com/AttackBeaver/devdoctor)  
+**Лицензия**: MIT
 
 ---
 **Автор**: [Стариков А.В.](https://github.com/AttackBeaver) — преподаватель БПОУ ОО "СПК"  
