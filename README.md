@@ -68,10 +68,6 @@ custom_checks:
 **GitHub**: [AttackBeaver/devdoctor](https://github.com/AttackBeaver/devdoctor)  
 **Лицензия**: MIT
 
----
-**Автор**: [Стариков А.В.](https://github.com/AttackBeaver) — преподаватель БПОУ ОО "СПК"  
-**GitHub**: [AttackBeaver/devdoctor](https://github.com/AttackBeaver/devdoctor)  
-**Лицензия**: MIT
 ## Установка
 
 ```bash
